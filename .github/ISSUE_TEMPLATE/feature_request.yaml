@@ -1,4 +1,4 @@
-name: 💡 Feature Request
+name: Feature Request
 description: Suggest an idea for this project
 title: "[Feature]: "
 labels: ["enhancement"]
@@ -17,3 +17,4 @@ body:
   - type: textarea
     id: solution
     attributes:
+      label: Describe the solution you'd like
